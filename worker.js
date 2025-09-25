@@ -3,11 +3,11 @@
 
 // ============ ⚙ CONFIGURATION ============
 const config = {
-    host: 'tv.stream4k.cc', // Stalker-Portal host (no /stalker_portal/c/ here)
-    mac_address: '00:1A:79:00:01:B2',
-    serial_number: 'F1F01D055C112',
-    device_id: '48660C2F0697446BA49440761C73E6CB98494D5FFA04D3F7C5EC7652016572FE',
-    device_id_2: '48660C2F0697446BA49440761C73E6CB98494D5FFA04D3F7C5EC7652016572FE',
+    host: 'tv.push4k.tv',
+    mac_address: '00:1A:79:30:30:32',
+    serial_number: '6B93DE897F65D',
+    device_id: '4ED862C1C8D1764C32B098FBDD9F51D15A07D5D36FC5E2E056693C5405E14D38',
+    device_id_2: '4ED862C1C8D1764C32B098FBDD9F51D15A07D5D36FC5E2E056693C5405E14D38',
     stb_type: 'MAG250',
     api_signature: '263',
 };
